@@ -20,6 +20,6 @@ colorscheme cx
 
 # Screenshots
 
-|      |      |
-| :--- | ---: |
-| ![demo-1](screenshots/demo-1.webp) | ![demo-2](screenshots/demo-2.webp) |
+![demo-1](screenshots/demo-1.webp)
+
+![demo-2](screenshots/demo-2.webp)
